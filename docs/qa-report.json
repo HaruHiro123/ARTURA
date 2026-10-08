@@ -1,0 +1,26 @@
+{
+  "passed": [
+    "Home EN/ID translations and document language",
+    "Repeated language changes across seven public routes without DOM errors",
+    "Language switch preserves form input and option values",
+    "Upload labels and preview alt text translated",
+    "Checkout preserves user text and does not mark unpaid artwork sold",
+    "Proof submitted while original remains unsold until verification",
+    "Quota failure cannot partially save Paid or Sold",
+    "Payment verification atomically changes artwork to Sold",
+    "Sold/Terjual persists after refresh and blocks cart button",
+    "Detail stock and receipt preserve names/addresses such as New",
+    "Admin cannot relist a sold one-off original",
+    "Duplicate checkout for a reserved original blocked",
+    "Cancelled unpaid order releases stock and blocks proof",
+    "Admin pages translated in both languages",
+    "Negative price cannot be saved",
+    "Mobile layout 390px has no page overflow on five key routes",
+    "Language preference persists on reload",
+    "Stock sync between browser tabs",
+    "Legacy paid orders repair missing Sold state",
+    "Malformed localStorage collections recover without white screen",
+    "No uncaught browser JavaScript errors"
+  ],
+  "errors": []
+}
